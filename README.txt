@@ -7,3 +7,6 @@ Samyak Change 2
 
 Samyak Change from master
 
+
+
+Learning Git from docs.
